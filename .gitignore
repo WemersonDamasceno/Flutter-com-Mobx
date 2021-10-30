@@ -30,6 +30,8 @@
 .pub-cache/
 .pub/
 /build/
+.analysis_options.yaml
+.metadata
 
 # Web related
 lib/generated_plugin_registrant.dart
